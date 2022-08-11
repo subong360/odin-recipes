@@ -1,2 +1,2 @@
 # odin-recipes
-samples of various recipies
+samples of various simple recipies
